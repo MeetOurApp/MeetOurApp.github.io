@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sections on 字节互动网络工作室</title>
+    <title>Sections on MeetOurApp</title>
     <link>https://MeetOurApp.github.io/sections/</link>
-    <description>Recent content in Sections on 字节互动网络工作室</description>
+    <description>Recent content in Sections on MeetOurApp</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://MeetOurApp.github.io/sections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>移动应用</title>
+      <title>Mobile Application</title>
       <link>https://MeetOurApp.github.io/sections/develop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://MeetOurApp.github.io/sections/develop/</guid>
-      <description>目前主要致力于开发一些实用或有趣的移动应用，解决生活中的小痛点和提供小乐趣。</description>
+      <description>Currently focused on developing practical or interesting mobile applications that address the pain points of life and provide little fun.</description>
     </item>
     
     <item>
-      <title>数据分析</title>
+      <title>Data Analysis</title>
       <link>https://MeetOurApp.github.io/sections/analyze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://MeetOurApp.github.io/sections/analyze/</guid>
-      <description>实时的流量追踪，海量的数据和智能算法分析，为用户呈现互联网产品的今日焦点。</description>
+      <description>Real-time traffic tracking, massive data and intelligent algorithm analysis, presenting the focus of today&amp;rsquo;s Internet products to users.</description>
     </item>
     
     <item>
-      <title>媒体内容</title>
+      <title>Media Content</title>
       <link>https://MeetOurApp.github.io/sections/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://MeetOurApp.github.io/sections/content/</guid>
-      <description>主流平台上用最简洁易懂的方式输出内容，让用户能快速和舒服地体验最新产品。</description>
+      <description>The content is output in the most succinct and easy-to-understand way on the mainstream platform, allowing users to experience the latest products quickly and comfortably.</description>
     </item>
     
   </channel>
